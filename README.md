@@ -21,7 +21,7 @@ The Blocklist Checker is a Python-based application with a GUI built using Tkint
 - **Windows:** Double-click on the blocklist-checker.exe.
 - **macOS/Linux:** Run blocklist-checker from the terminal.
 ### GUI Instructions:
-- Click **Browse** in the host file section to load the host file that the blocklist checker will be performed on. Example : [Blocklist Sample](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/light.txt)
+- Click **Browse** in the host file section to load the host file that the blocklist checker will be performed on. [Blocklist Sample](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/light.txt)
 - Click **Browse** in the report file section to specify the directory to save the report file.
 - Click **Start** to start the resolving process, click **Pause/Resume** to pause or resume the resolving process, click **Stop** to cancel the operation in progress.
 - When the process is complete, you can see the checker results in the report file that has been determined at the previous step.
